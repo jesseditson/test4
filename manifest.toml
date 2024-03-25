@@ -1,1 +1,8 @@
 archival_version = "0.4.7"
+site_url = "https://hello.onarchival.dev"
+objects = "pages"
+pages = "pages"
+static_dir = "public"
+layout_dir = "pages"
+build_dir = "dist"
+prebuild = ["npm run build"]
