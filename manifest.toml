@@ -1,3 +1,4 @@
 archival_version = "0.5.0"
 site_url = "https://hello.onarchival.dev"
+archival_site = "hello"
 prebuild = ["npm run build"]
