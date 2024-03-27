@@ -3,3 +3,4 @@
 [section]
 name = "string"
 body = "markdown"
+video = "video"
