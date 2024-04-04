@@ -1,4 +1,12 @@
-name="Some Content"
-body="""
+order = -1
+name = "Some Content"
+body = """
 Here is some *content*
 """
+
+[video]
+sha = "d2a2e02a750699f43339ecdc23a0fd80079e4db5c4c97d6faf52b3c5e631f88b"
+name = "pete.mp4"
+mime = "video/mp4"
+filename = "pete.mp4"
+display_type = "video"
