@@ -5,8 +5,8 @@ Here is some *content*
 name = "Some Content"
 
 [video]
-name = "Bot Queues and dynamic finding update 4_20 (1).mp4"
-sha = "cf32e51fabf2845df89b277aa7d81a63e2ffd9c385a35b354701440de3260715"
-mime = "video/mp4"
-filename = "Bot Queues and dynamic finding update 4_20 (1).mp4"
+filename = "IMG_0833.MOV"
+sha = "87fa344c44c086b9d991e5cc73afba33c7abbadd22c8e579644d29fd73399663"
+mime = "video/quicktime"
+name = "IMG_0833.MOV"
 display_type = "video"
