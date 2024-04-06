@@ -1,12 +1,12 @@
 order = -1
-name = "Some Content"
 body = """
 Here is some *content*
 """
+name = "Some Content"
 
 [video]
-sha = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb"
 name = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb.mp4"
-mime = "video/mp4"
-filename = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb.mp4"
 display_type = "video"
+mime = "video/mp4"
+sha = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb"
+filename = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb.mp4"
