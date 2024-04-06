@@ -1,12 +1,12 @@
 order = -1
-name = "Some Content"
+name = "Some Contenttewt"
 body = """
 Here is some *content*
 """
 
 [video]
+sha = "0f271906042978fdf19a7e1eae665b98d1e1f00169b69ae9cceb3b1c089490ed"
 filename = "pete.mov"
 mime = "video/quicktime"
-sha = "0f271906042978fdf19a7e1eae665b98d1e1f00169b69ae9cceb3b1c089490ed"
-name = "pete.mov"
 display_type = "video"
+name = "pete.mov"
