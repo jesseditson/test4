@@ -5,8 +5,8 @@ Here is some *content*
 name = "Some Content"
 
 [video]
-name = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb.mp4"
 display_type = "video"
-mime = "video/mp4"
-sha = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb"
-filename = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb.mp4"
+filename = "pete.mov"
+sha = "0f271906042978fdf19a7e1eae665b98d1e1f00169b69ae9cceb3b1c089490ed"
+name = "pete.mov"
+mime = "video/quicktime"
