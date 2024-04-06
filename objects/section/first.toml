@@ -6,7 +6,7 @@ Here is some *content*
 
 [video]
 sha = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb"
-filename = "Bowling 4k Video.mp4"
-name = "Bowling 4k Video.mp4"
+name = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb.mp4"
 mime = "video/mp4"
+filename = "b0534b2e547788ff515fe0b70b1df5ac4984f9fab4ed6a75c54d9663fe8a53bb.mp4"
 display_type = "video"
