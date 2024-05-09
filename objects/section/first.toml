@@ -1,8 +1,8 @@
 order = -1
+name = "Some Contents"
 body = """
 Here is some *content*
 """
-name = "Some Content"
 
 [video]
 name = "pete.mov"
