@@ -15,6 +15,10 @@
           name="{{section.video.filename}}"
           type="{{section.video.mime}}">
       </video>
+      <a
+        href="{{section.file.url}}"
+        title="{{section.file.filename}}"
+        type="{{section.file.mime}}">{{ section.file.name }}</a>
     {% endif %}
   {% endfor %}
 </div>
