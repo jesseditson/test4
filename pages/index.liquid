@@ -8,13 +8,15 @@
   {% for section in objects.section %}
     <h2>{{ section.name }}</h2>
     <div>{{ section.body }}</div>
-    {% if section.video.url != "" %}
+    {% if section.video %}
       <video title="{{section.video.name}}" controls>
         <source
           src="{{section.video.url}}"
           name="{{section.video.filename}}"
           type="{{section.video.mime}}">
       </video>
+    {% endif %}
+    {% if section.file %}
       <a
         href="{{section.file.url}}"
         title="{{section.file.filename}}"
