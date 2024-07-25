@@ -1,12 +1,17 @@
 order = -1
-name = "Some Contents"
+name = "First Name"
 body = """
 Here is some *content*
 """
 
-[video]
+[butt]
 name = "pete.mov"
 filename = "pete.mov"
 mime = "video/quicktime"
 sha = "0f271906042978fdf19a7e1eae665b98d1e1f00169b69ae9cceb3b1c089490ed"
 display_type = "video"
+
+[[child]]
+string_validated = "i didn't say the magic word"
+[child.stuff.foo.bar]
+baz = "Butt"

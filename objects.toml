@@ -3,5 +3,9 @@
 [section]
 name = "string"
 body = "markdown"
-video = "video"
+video_aliased = "butt"
 file = "upload"
+
+[section.child]
+string_validated = "butt2"
+stuff = "metabutt"

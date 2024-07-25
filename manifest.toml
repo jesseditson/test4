@@ -1,3 +1,16 @@
 archival_site = "test2"
 site_url = "https://hello.onarchival.dev"
 prebuild = ["npm run build"]
+
+[editor_types.butt]
+type = "video"
+
+[editor_types.butt2]
+type = "string"
+validate = ["magic"]
+
+[editor_types.metabutt]
+type = "meta"
+[[editor_types.metabutt.validate]]
+path = "foo.bar.baz"
+validate = "^[bB]"
