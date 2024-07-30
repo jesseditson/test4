@@ -5,6 +5,7 @@ name = "string"
 body = "markdown"
 video_aliased = "butt"
 file = "upload"
+custom_field = "custom_type"
 
 [section.child]
 string_validated = "butt2"

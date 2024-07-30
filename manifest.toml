@@ -15,3 +15,7 @@ type = "meta"
 [[editor_types.metabutt.validate]]
 path = "foo.bar.baz"
 validate = "^[bB]"
+
+[editor_types.custom_type]
+type = "meta"
+editor_url = "http://localhost:9090/editor.html"
