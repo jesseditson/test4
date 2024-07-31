@@ -3,6 +3,11 @@
 [section]
 name = "string"
 body = "markdown"
+switch = "boolean"
+count = "number"
+date = "date"
+audio = "audio"
+image = "image"
 video_aliased = "butt"
 file = "upload"
 custom_field = "custom_type"
