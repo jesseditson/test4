@@ -1,6 +1,8 @@
 order = -1
+body = """
+# HELLO
+Here is some *content*"""
 name = "First Names"
-body = "Here is some *content*"
 
 [[child]]
 string_validated = "i didn't say the magic word"
