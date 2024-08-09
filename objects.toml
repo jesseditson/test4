@@ -15,3 +15,7 @@ custom_field = "custom_type"
 [section.child]
 string_validated = "butt2"
 stuff = "metabutt"
+
+[testing]
+name = "string"
+value = "markdown"
