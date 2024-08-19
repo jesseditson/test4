@@ -6,8 +6,12 @@
 
 <div class="content">
   {% for section in objects.section %}
-    <h2>{{ section.name }}</h2>
-    <div>{{ section.body }}</div>
+    {% if section.name %}
+      <h2>{{ section.name }}</h2>
+    {% endif %}
+    {% if section.body %}
+      <div>{{ section.body }}</div>
+    {% endif %}
     {% if section.video %}
       <video title="{{section.video.name}}" controls>
         <source
