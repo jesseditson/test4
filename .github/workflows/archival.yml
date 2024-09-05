@@ -3,14 +3,11 @@ on:
   push:
     branches:
       - main
-permissions:
-  contents: write
+  pull_request:
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Archival Build
-        uses: jesseditson/archival@main
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: jesseditson/archival@action-artifacts
