@@ -1,11 +1,12 @@
-name: Archival
+name: archival
 on:
   push:
     branches:
       - main
   pull_request:
 jobs:
-  build:
+  deploy:
+    name: "Build & deploy to archival"
     runs-on: ubuntu-latest
 
     steps:
