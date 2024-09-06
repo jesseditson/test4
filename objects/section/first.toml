@@ -2,7 +2,7 @@ order = -1
 body = """
 # HELLO
 Here is some *content*"""
-name = "First Names"
+name = "First"
 
 [[child]]
 string_validated = "i didn't say the magic word"
